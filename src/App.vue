@@ -15,8 +15,4 @@ export default {
 };
 </script>
 
-<style>
-#app {
-  font-family: "Futura";
-}
-</style>
+<style></style>
