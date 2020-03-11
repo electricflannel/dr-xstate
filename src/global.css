@@ -90,4 +90,5 @@ body {
   background-color: rgb(168, 164, 161);
   background-image: url("./assets/bedge-grunge.png");
   background-repeat: repeat;
+  user-select: none;
 }
